@@ -9,7 +9,7 @@ public class MyList {
 
     private int[] elementsList = new int[0];
 
-    private int x = 2;
+    private int x = 2; // some comment
 
 
 
