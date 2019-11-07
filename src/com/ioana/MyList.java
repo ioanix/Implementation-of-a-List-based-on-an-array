@@ -9,6 +9,8 @@ public class MyList {
 
     private int[] elementsList = new int[0];
 
+    private int x = 1;
+
 
 
 
